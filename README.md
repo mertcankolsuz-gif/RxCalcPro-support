@@ -10,7 +10,7 @@ for healthcare professionals.
 
 For support, feedback, or bug reports:
 
-**Email:** mertcankolsuz@gmail.com
+**Email:** ecz.mertcankolsuz@gmail.com
 
 Response time: within 48 hours
 
